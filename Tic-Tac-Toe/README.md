@@ -1,1 +1,1 @@
-
+This project creates a simple game of Tic Tac Toe using the Tkinter library in Python. It creates a 3x3 graphical board where two players take turns clicking on buttons to place X and O. The program checks for winning conditions after each move and pops up a message box when a player wins or when it is a tie. The board resets automatically after the message box pops up. This project shows basic GUI programming in Python.
